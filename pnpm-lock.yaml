@@ -11,7 +11,7 @@ specifiers:
   eslint: 7.32.0
   eslint-config-alloy: 4.5.1
   eslint-config-prettier: 8.5.0
-  eslint-plugin-prettier: 3.4.1
+  eslint-plugin-prettier: 4.0.0
   esno: 0.14.1
   husky: 6.0.0
   lint-staged: 11.2.6
@@ -33,7 +33,7 @@ devDependencies:
   eslint: 7.32.0
   eslint-config-alloy: 4.5.1
   eslint-config-prettier: 8.5.0_eslint@7.32.0
-  eslint-plugin-prettier: 3.4.1_cfc9253cc6cf8e63ed6f63a6b600e6b9
+  eslint-plugin-prettier: 4.0.0_cfc9253cc6cf8e63ed6f63a6b600e6b9
   esno: 0.14.1
   husky: 6.0.0
   lint-staged: 11.2.6
@@ -1609,13 +1609,13 @@ packages:
       eslint: 7.32.0
     dev: true
 
-  /eslint-plugin-prettier/3.4.1_cfc9253cc6cf8e63ed6f63a6b600e6b9:
-    resolution: {integrity: sha512-htg25EUYUeIhKHXjOinK4BgCcDwtLHjqaxCDsMy5nbnUMkKFvIhMVCp+5GFUXQ4Nr8lBsPqtGAqBenbpFqAA2g==}
+  /eslint-plugin-prettier/4.0.0_cfc9253cc6cf8e63ed6f63a6b600e6b9:
+    resolution: {integrity: sha512-98MqmCJ7vJodoQK359bqQWaxOE0CS8paAz/GgjaZLyex4TTk3g9HugoO89EqWCrFiOqn9EVvcoo7gZzONCWVwQ==}
     engines: {node: '>=6.0.0'}
     peerDependencies:
-      eslint: '>=5.0.0'
+      eslint: '>=7.28.0'
       eslint-config-prettier: '*'
-      prettier: '>=1.13.0'
+      prettier: '>=2.0.0'
     peerDependenciesMeta:
       eslint-config-prettier:
         optional: true
