@@ -1,0 +1,23 @@
+# IDE
+.idea/
+
+# Node
+node_modules/
+
+*.log
+
+# Typescript
+*.tsbuildinfo
+
+# Vite
+.DS_Store
+dist
+dist-ssr
+*.local
+
+# api-extractor
+temp
+
+# local env
+.env.local
+src/test.ts
