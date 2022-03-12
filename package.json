@@ -1,6 +1,6 @@
 {
     "name": "vite-plugin-manual-chunks-completion",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "",
     "homepage": "https://github.com/Zolyn/vite-plugin-manual-chunks-completion#readme",
     "bugs": {
