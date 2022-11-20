@@ -51,6 +51,6 @@
         "vite": "2.8.6"
     },
     "dependencies": {
-        "camelcase": "^6.3.0"
+        "camelcase": "^7.0.0"
     }
 }
